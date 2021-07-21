@@ -9,7 +9,7 @@ from google.colab import drive
 drive.mount('/content/gdrive')
 ```
 
-Now install the packages using the commands as followed
+Now install the packages using the following commands
 
 ```
 import numpy
