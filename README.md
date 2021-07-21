@@ -70,4 +70,4 @@ with pre-whitening and without data augmentation or model ensembling.
 python cifar10_sup.py --epochs 105 --lr 0.1 --alpha 0.001 --loss hinge --alternating --model ckn5
 python cifar10_sup.py --epochs 105 --lr 0.1 --alpha 0.1 --loss hinge --alternating --model ckn14
 ```
-To obtain the training curves, code is added at last of 'cifar10_sup.py' which save thes figures in './ckn-sachin/output'
+To obtain the training curves, code is added at last of 'cifar10_sup.py' which save the figures in './ckn-sachin/output'
