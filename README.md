@@ -1,7 +1,6 @@
 
 ## Running on Google Colab 
-(following documentation is assuming that 
-all our codes and files are in folder 'ckn-sachin' of google drive)
+(all the codes and files should be in the folder 'ckn-sachin' of google drive)
 
 Start by mounting drive 
 ```
