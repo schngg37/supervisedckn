@@ -1,4 +1,6 @@
 # MISO SVM
+If you are using Google Colab, please ignore the installation procedure written below. Just follow the instructions given in main directory.
+
 
 This package implements a SVM (support vector machine) classification procedure
 based on the MISO optimization algorithm, which is introduced in [1] (available
